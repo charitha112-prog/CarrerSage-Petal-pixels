@@ -18,7 +18,7 @@ I was responsible for the **frontend development of CareerSage**, focusing on bu
 
 The current repository demonstrates the frontend implementation. Backend integration and the completion of the overall application are still in progress, so the demo does not yet represent the fully integrated, working product.
 
-# CareerSage Frontend
+## CareerSage Frontend
 
 A React + Vite frontend prototype for CareerSage, with a cream/orange/navy/blue palette, abstract background shapes, translucent glass cards, and generic demo data.
 
